@@ -11,7 +11,7 @@ namespace ApplicationOnGit
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Hello - Yashas");
+            Console.WriteLine("Hello - Yash");
             Console.ReadLine();
         }
     }
